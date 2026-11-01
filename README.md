@@ -1,7 +1,5 @@
 # Real-Time Yoga Posture Detection and Correction Using Computer Vision
 
-**Image & Video Processing (IMV) Lab Project — Technical Implementation**
-
 A computer-vision system that captures video frames via webcam, extracts 33 human skeletal landmarks using **MediaPipe Pose**, computes 2D/3D joint angles using geometric vector mathematics, classifies yoga poses, evaluates posture correctness against biomechanical standards, and delivers real-time visual and text-based corrective guidance.
 
 ---
