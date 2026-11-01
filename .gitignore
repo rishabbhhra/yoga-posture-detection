@@ -1,0 +1,12 @@
+# Python virtual environments & bytecode
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit local state
+.streamlit/credentials.toml
+
+# MediaPipe model binaries (can be downloaded via script if needed, or keep tracked if under GitHub 100MB limit)
+# Note: models are ~15MB total, which easily fits within GitHub's 100MB file limit.
